@@ -7,6 +7,9 @@ By: Levno-710
 2. Extract your files to your desktop or any directory
 3. Open ".env" and change the contents in "DISCORD_TOKEN" into your token. (EXAMPLE: DISCORD_TOKEN=230478193478129 <-- fake token)
 ![Alt text](https://media.discordapp.net/attachments/1072070520922701895/1073468174072283176/image.png "ENV")
+
+
+
 4. Run "build.bat" to install all modules
 5. Run "Bot.bat" to start your bot.
 
