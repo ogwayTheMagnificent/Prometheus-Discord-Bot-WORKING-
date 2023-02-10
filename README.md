@@ -1,3 +1,4 @@
+# (PLEASE MAKE YOUR OWN .ENV FILE AND MAKE A VARIABLE NAMED "DISCORD_TOKEN")
 # Prometheus Discord Bot (WORKING API)
 Original work: https://github.com/prometheus-lua/Prometheus-discord-bot
 By: Levno-710
